@@ -47,7 +47,7 @@ export const Home = (): JSX.Element => {
               <Text color="grey4">Hello, my name is {userData.nameUser}</Text>
             </Flex>
             <Text as="h1" type="heading1" color="grey5">
-            I{" "}
+              I{" "}
               <Text as="span" type="heading1" color="brand1">
                 love
               </Text>{" "}
@@ -58,8 +58,7 @@ export const Home = (): JSX.Element => {
               projects
             </Text>
             <Text type="body1" color="grey2">
-              Discover here in this environment, created especially for you, all
-              my projects and technologies
+              In 2022, I started my journey as a programmer and developed several projects, where I put into practice my familiarity with good development practices. I spent a year studying programming at Kenzie Academy Brasil, where I gained experience building projects and using agile methodologies. After this experience, I seek the opportunity to contribute and learn more and more, in order to create better and 100% functional projects.
             </Text>
             <HeaderButtonsArea>
               <Button as="a" type="primary" href="#projects">
